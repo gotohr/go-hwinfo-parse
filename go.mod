@@ -1,1 +1,1 @@
-module github.com/gotohr/go-hwinfo-parser
+module github.com/gotohr/go-hwinfo-parse
